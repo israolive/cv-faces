@@ -17,4 +17,5 @@ Autores:
 
 - Notebook: report.ipynb
 - Relatório: report.pdf
+- Slides: slides.pptx
 - Pesos da rede YOLOv8s treinada: https://drive.google.com/drive/folders/1KTyoKtiSxymysENfpmB1h2m3afDSRydW?usp=sharing
