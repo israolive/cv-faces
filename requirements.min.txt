@@ -1,0 +1,13 @@
+retina-face
+deepface
+scikit-learn
+pandas
+matplotlib
+seaborn
+opencv-python
+tf-keras
+tensorrt
+pillow
+tqdm
+datasets
+ultralytics
